@@ -28,10 +28,10 @@ LLM: Groq
 
 # LangChain Tools:
 
-# DuckDuckGoSearchRun (for web search)
+ DuckDuckGoSearchRun (for web search)
 
-# WikipediaAPIWrapper (for knowledge retrieval)
+ WikipediaAPIWrapper (for knowledge retrieval)
 
-# SQLDatabaseToolkit (for querying SQLite databases)
+ SQLDatabaseToolkit (for querying SQLite databases)
 
-# Environment Management: dotenv
+ Environment Management: dotenv
